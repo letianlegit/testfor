@@ -1,0 +1,8 @@
+node_modules
+dist 
+.vscode
+*.log
+*.pem
+*.cer
+utils/password.txt
+password.txt
