@@ -6,3 +6,4 @@ dist
 *.cer
 utils/password.txt
 password.txt
+*.pem
